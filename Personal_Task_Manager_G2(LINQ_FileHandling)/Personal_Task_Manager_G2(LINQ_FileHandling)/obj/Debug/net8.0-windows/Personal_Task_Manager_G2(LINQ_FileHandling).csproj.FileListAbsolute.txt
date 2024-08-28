@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\bin\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).exe
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\bin\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).deps.json
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\bin\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).runtimeconfig.json
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\bin\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).dll
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\bin\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).pdb
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\obj\Debug\net8.0-windows\Personal_Task_Manager_G2_LINQ_FileHandling_.Personal_Task_Manager.resources
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\obj\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).csproj.GenerateResource.cache
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\obj\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\obj\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\obj\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).AssemblyInfo.cs
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\obj\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\obj\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).dll
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\obj\Debug\net8.0-windows\refint\Personal_Task_Manager_G2(LINQ_FileHandling).dll
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\obj\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).pdb
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\obj\Debug\net8.0-windows\Personal_Task_Manager_G2(LINQ_FileHandling).genruntimeconfig.cache
+C:\Users\User\source\repos\Personal_Task_Manager_G2(LINQ_FileHandling)\Personal_Task_Manager_G2(LINQ_FileHandling)\obj\Debug\net8.0-windows\ref\Personal_Task_Manager_G2(LINQ_FileHandling).dll
