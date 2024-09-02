@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\bin\Debug\net8.0-windows\File_Handle_App.exe
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\bin\Debug\net8.0-windows\File_Handle_App.deps.json
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\bin\Debug\net8.0-windows\File_Handle_App.runtimeconfig.json
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\bin\Debug\net8.0-windows\File_Handle_App.dll
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\bin\Debug\net8.0-windows\File_Handle_App.pdb
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\obj\Debug\net8.0-windows\File_Handle_App.Form1.resources
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\obj\Debug\net8.0-windows\File_Handle_App.csproj.GenerateResource.cache
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\obj\Debug\net8.0-windows\File_Handle_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\obj\Debug\net8.0-windows\File_Handle_App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\obj\Debug\net8.0-windows\File_Handle_App.AssemblyInfo.cs
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\obj\Debug\net8.0-windows\File_Handle_App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\obj\Debug\net8.0-windows\File_Handle_App.dll
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\obj\Debug\net8.0-windows\refint\File_Handle_App.dll
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\obj\Debug\net8.0-windows\File_Handle_App.pdb
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\obj\Debug\net8.0-windows\File_Handle_App.genruntimeconfig.cache
+C:\Users\User\source\repos\File_Handle_App\File_Handle_App\obj\Debug\net8.0-windows\ref\File_Handle_App.dll
